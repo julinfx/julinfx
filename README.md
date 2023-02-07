@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @julinfx
-- 👀 I’m interested in lerning.
-- 🌱 I’m currently learning Python.
-- 💞️ I’m looking to collaborate on Web Developer and Ethical Hacker.
-
-
-
+Me chamo Julio Cezar, sou formado em analise de Sistemas.
+Romanos 8:15
+Apaixonado por programação, principalmente por Python.
+Estou procurando me desencolver na area de Analise de Dados.
+Vasco da Gama!
