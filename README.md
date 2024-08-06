@@ -1,6 +1,8 @@
 <h1 align="center">Ola, me chamo Julio Cezar</h1>
 <h3 align="center">Sou apaixonado por análise e visualização de dados</h3>
 
+- Atualmente estou em busca de projetos voltados para análise e visuzalização de dados
+
 - Me pergunte sobre **Python, MySQL, Excel e Power BI**
 
 - Como chegar até mim **jb.cezar18@gmail.com**
